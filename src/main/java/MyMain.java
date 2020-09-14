@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class MyMain {
     
+    
     public static int binaryToDecimal(String binary) { 
         // Convert String to integer
         int bin = Integer.parseInt(binary);
